@@ -5,4 +5,6 @@ fun main() {
     ejecutarBloque2()
     ejecutarBloque3()
     ejecutarBloque4()
+    ejecutarBloque5()
+    ejecutarBloque6()
 }
