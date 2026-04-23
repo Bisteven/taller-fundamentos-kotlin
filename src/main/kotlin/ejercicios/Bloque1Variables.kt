@@ -1,4 +1,4 @@
-package ejercicios
+package main.kotlin.ejercicios
 
 object Constants {
     const val VELOCIDAD_LUZ = 299792458

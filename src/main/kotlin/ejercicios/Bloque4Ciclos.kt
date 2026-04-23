@@ -1,4 +1,4 @@
-package ejercicios
+package main.kotlin.ejercicios
 
 fun ejecutarBloque4() {
     println("\n=== BLOQUE 4: CICLOS ===")

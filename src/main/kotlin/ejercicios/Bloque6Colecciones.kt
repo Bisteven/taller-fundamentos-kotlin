@@ -1,4 +1,4 @@
-package ejercicios
+package main.kotlin.ejercicios
 // 29. Extensión de Int
 fun Int.esNegativo(): Boolean = this < 0
 

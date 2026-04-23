@@ -1,4 +1,4 @@
-import ejercicios.*
+package main.kotlin.ejercicios
 
 fun main() {
     ejecutarBloque1()
