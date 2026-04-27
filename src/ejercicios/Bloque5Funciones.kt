@@ -1,4 +1,4 @@
-package main.kotlin.ejercicios
+package ejercicios
 
 fun saludar(nombre: String): String {
     return "Hola, $nombre, bienvenido al taller"

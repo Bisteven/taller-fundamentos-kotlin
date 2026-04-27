@@ -1,4 +1,4 @@
-package main.kotlin.ejercicios
+package ejercicios
 
 fun main() {
     ejecutarBloque1()

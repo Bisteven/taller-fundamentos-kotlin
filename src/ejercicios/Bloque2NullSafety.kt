@@ -1,4 +1,4 @@
-package main.kotlin.ejercicios
+package ejercicios
 
 fun ejecutarBloque2() {
     println("\n=== BLOQUE 2: NULL SAFETY ===")
